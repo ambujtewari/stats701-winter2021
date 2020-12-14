@@ -4,9 +4,9 @@ This is a special topics course on the Theory of Reinforcement Learning
 
 ## Instructor Information
 
-**Name**: Ambuj Tewari
-**Zoom Office Hours**: By appointment
-**Email**: tewaria@umich.edu
+**Name**: Ambuj Tewari  
+**Zoom Office Hours**: By appointment  
+**Email**: tewaria@umich.edu  
 
 ## Grading
 
