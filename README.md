@@ -17,5 +17,5 @@ There will be no homeworks or exams. Grades will be determined on the basis of c
 Lecture No. | Date | Topic | Notes
 --- | --- | --- | ---
 01 | Jan 19 | Introduction | --
-02 | Jan 24 | | 
+02 | Jan 21 | -- | --
 
