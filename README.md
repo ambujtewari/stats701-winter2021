@@ -13,6 +13,7 @@ This is a special topics course on the Theory of Reinforcement Learning (RL). We
 We will use the following resources:
 - for the core part: [course notes by Prof. Vidyasagar](https://www.iith.ac.in/~m_vidyasagar/RL/UCB/) and [the boot camp](https://simons.berkeley.edu/workshops/schedule/14378) from the Simons Institute Fall 2020 program on the Theory of Reinforcement Learning
 - for the advanced part: the three workshops from the Simons Theory of RL program ([deep RL](https://simons.berkeley.edu/workshops/schedule/14238), [online RL](https://simons.berkeley.edu/workshops/schedule/14239), [RL using batch/simulation data](https://simons.berkeley.edu/workshops/schedule/14240))
+For more resources, look [here](resources.md).
 
 The course is aimed at advanced graduate students in statistics, computer science, control theory, operations research, and other related disciplines that study sequential decision making under uncertainty. Prior exposure to RL (or at least MDPs) is strongly recommended. This course has a theoretical/mathematical flavor and therefore mathematical maturity is expected.
 
