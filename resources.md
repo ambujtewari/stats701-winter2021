@@ -12,7 +12,7 @@
 - [Chi Jin @ Princeton](https://sites.google.com/view/cjin/ele524)
 - [David Silver @ UCL](https://www.davidsilver.uk/teaching/)
 - [Drew Bagnell @ CMU](http://robotwhisperer.org/acrls11/)
-- [Emma Brunskill @ CMU](http://web.stanford.edu/class/cs234/index.html), [advanced survey](http://cs332.stanford.edu/)
+- [Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html), [advanced survey](http://cs332.stanford.edu/)
 - [Michael Littman @ Brown](http://cs.brown.edu/courses/cs2951f/2017/)
 - [M Vidyasagar @ Berkeley](https://www.iith.ac.in/~m_vidyasagar/RL/UCB/)
 - [Nan Jiang @ UIUC](https://nanjiang.cs.illinois.edu/cs498/), [more theoretical version](https://nanjiang.cs.illinois.edu/cs598/)
