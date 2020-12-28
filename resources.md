@@ -14,7 +14,7 @@
 - [Drew Bagnell @ CMU](http://robotwhisperer.org/acrls11/)
 - [Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html), [advanced survey](http://cs332.stanford.edu/)
 - [Michael Littman @ Brown](http://cs.brown.edu/courses/cs2951f/2017/)
-- [M Vidyasagar @ Berkeley](https://www.iith.ac.in/~m_vidyasagar/RL/UCB/)
+- [M Vidyasagar @ IIT Hyderabad](https://www.iith.ac.in/~m_vidyasagar/RL/Gen/)
 - [Nan Jiang @ UIUC](https://nanjiang.cs.illinois.edu/cs498/), [more theoretical version](https://nanjiang.cs.illinois.edu/cs598/)
 - [Peter Bartlett @ Berkeley](https://www.stat.berkeley.edu/~bartlett/courses/2014fall-cs294stat260/)
 - [Peter Stone @ UT Austin](https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/)
