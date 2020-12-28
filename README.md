@@ -11,7 +11,7 @@ This is a special topics course on the Theory of Reinforcement Learning (RL). We
 - multi-agent RL
 
 We will use the following resources:
-- for the core part: [course notes by Prof. Vidyasagar](https://www.iith.ac.in/~m_vidyasagar/RL/UCB/) and [the boot camp](https://simons.berkeley.edu/workshops/schedule/14378) from the Simons Institute Fall 2020 program on the Theory of Reinforcement Learning
+- for the core part: [course notes by Prof. Vidyasagar](https://www.iith.ac.in/~m_vidyasagar/RL/Gen/) and [the boot camp](https://simons.berkeley.edu/workshops/schedule/14378) from the Simons Institute Fall 2020 program on the Theory of Reinforcement Learning
 - for the advanced part: the three workshops from the Simons Theory of RL program ([deep RL](https://simons.berkeley.edu/workshops/schedule/14238), [online RL](https://simons.berkeley.edu/workshops/schedule/14239), [RL using batch/simulation data](https://simons.berkeley.edu/workshops/schedule/14240))  
 - for more resources, look [here](resources.md)
 
