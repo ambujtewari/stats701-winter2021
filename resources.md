@@ -22,5 +22,6 @@
 - [Warren Powell @ Princeton](https://castlelab.princeton.edu/html/ORF544.htm)
 - [Yishay Mansour @ Tel-Aviv](http://rl-tau-2019.wikidot.com/)
 
+# Other RL resources
 
-
+- [awesome-rl](https://github.com/aikorea/awesome-rl): a curated list of RL resources
