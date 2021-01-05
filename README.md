@@ -25,7 +25,7 @@ The course is aimed at advanced graduate students in statistics, computer scienc
 
 ## Grading
 
-There will be no homeworks or exams. Grades will be determined on the basis of class presentations and/or a final project (details TBD).
+There will be no graded homeworks or exams. Grades will be determined on the basis of class presentations and a final project.
 
 ## Schedule 
 
