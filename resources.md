@@ -11,6 +11,7 @@
 - [Byron Boots @ UW](https://homes.cs.washington.edu/~bboots/RL-Spring2020/)
 - [Chi Jin @ Princeton](https://sites.google.com/view/cjin/ele524)
 - [David Silver @ UCL](https://www.davidsilver.uk/teaching/)
+- [Dimitrios Katselis @ UIUC](http://katselis.web.engr.illinois.edu/ReinforcementLearning.html)
 - [Drew Bagnell @ CMU](http://robotwhisperer.org/acrls11/)
 - [Emma Brunskill @ Stanford](http://web.stanford.edu/class/cs234/index.html), [advanced survey](http://cs332.stanford.edu/)
 - [Michael Littman @ Brown](http://cs.brown.edu/courses/cs2951f/2017/)
