@@ -29,8 +29,32 @@ There will be no homeworks or exams. Grades will be determined on the basis of c
 
 ## Schedule 
 
-Lecture No. | Date | Topic | Notes
+Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
 01 | Jan 19 | Introduction | --
 02 | Jan 21 | -- | --
-
+03 | Jan 26 | -- | --
+04 | Jan 28 | -- | --
+05 | Feb 02 | -- | --
+06 | Feb 04 | -- | --
+07 | Feb 09 | -- | --
+08 | Feb 11 | -- | --
+09 | Feb 16 | -- | --
+10 | Feb 18 | -- | --
+11 | Feb 23 | -- | --
+12 | Feb 25 | -- | --
+13 | Mar 02 | -- | --
+14 | Mar 04 | -- | --
+15 | Mar 09 | -- | --
+16 | Mar 11 | -- | --
+17 | Mar 16 | -- | --
+18 | Mar 18 | -- | --
+-- | Mar 23 | WELL-BEING BREAK | --
+19 | Mar 25 | -- | --
+20 | Mar 30 | -- | --
+21 | Apr 01 | -- | --
+22 | Apr 06 | -- | --
+23 | Apr 08 | -- | --
+24 | Apr 13 | -- | --
+25 | Apr 15 | -- | --
+26 | Apr 20 | -- | --
