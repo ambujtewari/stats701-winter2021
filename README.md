@@ -49,7 +49,7 @@ Lecture No. | Date | Topic | Readings
 16 | Mar 11 | -- | --
 17 | Mar 16 | -- | --
 18 | Mar 18 | -- | --
--- | Mar 23 | WELL-BEING BREAK | --
+-- | Mar 23 | Well-being break | --
 19 | Mar 25 | -- | --
 20 | Mar 30 | -- | --
 21 | Apr 01 | -- | --
