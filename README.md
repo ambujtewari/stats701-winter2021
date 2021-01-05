@@ -43,7 +43,7 @@ Lecture No. | Date | Topic | Readings
 10 | Feb 18 | -- | --
 11 | Feb 23 | -- | --
 12 | Feb 25 | -- | --
-13 | Mar 02 | -- | --
+13 | Mar 02 | <span style="color:red">Proposals due.</span> | --
 14 | Mar 04 | -- | --
 15 | Mar 09 | -- | --
 16 | Mar 11 | -- | --
