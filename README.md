@@ -32,7 +32,7 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
 01 | Jan 19 | Introduction | --
-02 | Jan 21 | -- | --
+02 | Jan 21 | Markov Reward Processes | --
 03 | Jan 26 | -- | --
 04 | Jan 28 | -- | --
 05 | Feb 02 | -- | --
