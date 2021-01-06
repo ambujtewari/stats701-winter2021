@@ -58,3 +58,4 @@ Lecture No. | Date | Topic | Readings
 24 | Apr 13 | -- | --
 25 | Apr 15 | -- | --
 26 | Apr 20 | -- | --
+-- | Apr 27 | <span style="color:red">Reports due</span> | --
