@@ -33,8 +33,8 @@ Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
 01 | Jan 19 | Introduction | --
 02 | Jan 21 | Markov Reward Processes | --
-03 | Jan 26 | -- | --
-04 | Jan 28 | -- | --
+03 | Jan 26 | Markov Decision Processes | --
+04 | Jan 28 | Monte Carlo Methods | --
 05 | Feb 02 | -- | --
 06 | Feb 04 | -- | --
 07 | Feb 09 | -- | --
