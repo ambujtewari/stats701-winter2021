@@ -43,9 +43,9 @@ Lecture No. | Date | Topic | Readings
 08 | Feb 11 | Stochastic and Adversarial Multi-Armed Bandits | --
 09 | Feb 16 | Pure Exploration and Stochastic Linear Bandits | --
 -- | --     | **Online Learning in MDPs** | --
-10 | Feb 18 | -- | --
-11 | Feb 23 | -- | --
-12 | Feb 25 | -- | --
+10 | Feb 18 | Optimism Based Algorithms | --
+11 | Feb 23 | Posterior/Thompson Sampling | --
+12 | Feb 25 | Adversarial MDPs | --
 13 | Mar 02 | <span style="color:red">Proposals due</span> | --
 14 | Mar 04 | -- | --
 15 | Mar 09 | -- | --
