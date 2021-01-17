@@ -35,7 +35,7 @@ Lecture No. | Date | Topic | Readings
 02 | Jan 21 | Markov Reward Processes | --
 03 | Jan 26 | Markov Decision Processes | --
 04 | Jan 28 | Monte Carlo Methods | --
-05 | Feb 02 | -- | --
+05 | Feb 02 | Temporal Difference Methods | --
 06 | Feb 04 | -- | --
 07 | Feb 09 | -- | --
 08 | Feb 11 | -- | --
