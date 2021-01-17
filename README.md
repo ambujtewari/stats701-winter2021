@@ -38,10 +38,11 @@ Lecture No. | Date | Topic | Readings
 04 | Jan 28 | Monte Carlo Methods | --
 05 | Feb 02 | Temporal Difference Methods | --
 -- | --     | **Online Learning and Bandits** | --
-06 | Feb 04 | -- | --
-07 | Feb 09 | -- | --
-08 | Feb 11 | -- | --
-09 | Feb 16 | -- | --
+06 | Feb 04 | Online Convex Optimization | --
+07 | Feb 09 | Experts Problem | --
+08 | Feb 11 | Stochastic and Adversarial Multi-Armed Bandits | --
+09 | Feb 16 | Pure Exploration and Stochastic Linear Bandits | --
+-- | --     | **Online Learning in MDPs** | --
 10 | Feb 18 | -- | --
 11 | Feb 23 | -- | --
 12 | Feb 25 | -- | --
