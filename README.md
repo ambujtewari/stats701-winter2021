@@ -29,7 +29,7 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 
 ## Schedule 
 
-"Notes" below refers to Prof. Vidyasagar course notes (available to UM students via the Canvas website for this course).
+"Notes" below refers to Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course).
 
 Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
