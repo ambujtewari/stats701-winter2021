@@ -29,12 +29,14 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 
 ## Schedule 
 
-- Notes = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
+- V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
 
 Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
-01 | Jan 19 | Introduction | Notes: Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction)
+01 | Jan 19 | Introduction |
+V, Chapter 1 (Introduction)
+<br/> SB, Chapter 1 (Introduction)
 -- | --     | **Tabular Methods** | --
 02 | Jan 21 | Markov Reward Processes | --
 03 | Jan 26 | Markov Decision Processes | --
