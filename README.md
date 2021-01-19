@@ -40,7 +40,7 @@ Lecture No. | Date | Topic | Readings
 03 | Jan 26 | Markov Decision Processes | --
 04 | Jan 28 | Monte Carlo Methods | --
 05 | Feb 02 | Temporal Difference Methods | --
-&nbsp;| &nbsp; | **Online Learning and Bandits** | --
+&nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp;
 06 | Feb 04 | Online Convex Optimization | --
 07 | Feb 09 | Experts Problem | --
 08 | Feb 11 | Stochastic and Adversarial Multi-Armed Bandits | --
@@ -55,7 +55,7 @@ Lecture No. | Date | Topic | Readings
 16 | Mar 11 | -- | --
 17 | Mar 16 | -- | --
 18 | Mar 18 | -- | --
-&nbsp;| Mar 23 | Well-being break | --
+&nbsp;| Mar 23 | Well-being break | &nbsp;
 19 | Mar 25 | -- | --
 20 | Mar 30 | -- | --
 21 | Apr 01 | -- | --
@@ -64,4 +64,4 @@ Lecture No. | Date | Topic | Readings
 24 | Apr 13 | -- | --
 25 | Apr 15 | -- | --
 26 | Apr 20 | -- | --
-&nbsp;| Apr 27 | <span style="color:red">Reports due</span> | --
+&nbsp;| Apr 27 | <span style="color:red">Reports due</span> | &nbsp;
