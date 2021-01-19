@@ -34,9 +34,7 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 
 Lecture No. | Date | Topic | Readings
 --- | --- | --- | ---
-01 | Jan 19 | Introduction |
-V, Chapter 1 (Introduction)
-<br/> SB, Chapter 1 (Introduction)
+01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> Section 16.6 (Mastering the Game of Go)
 -- | --     | **Tabular Methods** | --
 02 | Jan 21 | Markov Reward Processes | --
 03 | Jan 26 | Markov Decision Processes | --
