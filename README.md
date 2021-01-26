@@ -37,19 +37,19 @@ Lecture No. | Date | Topic | Readings
 01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go)
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp;
 02 | Jan 21 | Markov Reward Processes | V, Section 8.2 (Markov processes) <br/> V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes)
-03 | Jan 26 | MRPs continued <br/> Markov Decision Processes | --
-04 | Jan 28 | Monte Carlo Methods | --
-05 | Feb 02 | Temporal Difference Methods | --
+03 | Jan 26 | MRPs continued | --
+04 | Jan 28 | Markov Decision Processes | --
+05 | Feb 02 | Monte Carlo Methods | --
+06 | Feb 04 | Temporal Difference Methods | --
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp;
-06 | Feb 04 | Online Convex Optimization | --
-07 | Feb 09 | Experts Problem | --
-08 | Feb 11 | Stochastic and Adversarial Multi-Armed Bandits | --
-09 | Feb 16 | Pure Exploration and Stochastic Linear Bandits | --
+07 | Feb 09 | Online Convex Optimization | --
+08 | Feb 11 | Experts Problem | --
+09 | Feb 16 | Stochastic and Adversarial Multi-Armed Bandits | --
+10  | Feb 18 | Pure Exploration and Stochastic Linear Bandits | --
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp;
-10  | Feb 18 | Optimism Based Algorithms | --
-11 | Feb 23 | Posterior/Thompson Sampling | --
-12 | Feb 25 | Adversarial MDPs | --
-13 | Mar 02 | <span style="color:red">Proposals due</span> | --
+11 | Feb 23 | Optimism Based Algorithms | --
+12 | Feb 25 | Posterior/Thompson Sampling | --
+13 | Mar 02 | Adversarial MDPs <br/> <span style="color:red">Proposals due</span> | --
 14 | Mar 04 | -- | --
 15 | Mar 09 | -- | --
 16 | Mar 11 | -- | --
