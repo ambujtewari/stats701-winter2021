@@ -38,7 +38,7 @@ Lecture No. | Date | Topic | Readings
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp;
 02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes)
 03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes)
-04 | Jan 28 | Markov Decision Processes | V, Section 2.2 (Markov Decision Processes)  
+04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes)  
 05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | --
 06 | Feb 04 | Temporal Difference Methods | --
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp;
