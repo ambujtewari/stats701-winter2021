@@ -34,14 +34,14 @@ _Caveat Lector_: The material below is provided with the hope that it might be u
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
 
-Lecture No. | Date | Topic | Readings | Media. 
+Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | --- | ---
 01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go) | [slides](slides/Intro.pdf) <br/> [zoom recording](https://www.dropbox.com/s/s5o5up2y7a57p4n/zoom_0.mp4?dl=0)
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp; |
-02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) |
-03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) |
-04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) |
-05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | -- |
+02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) | [slides](slides/MRP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/yx123soh439120x/zoom_0.mp4?dl=0)
+03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) | [slides](slides/MRP2.pdf) <br/> [zoom recording](https://www.dropbox.com/s/scxb2behhqkrkg3/zoom_0.mp4?dl=0)
+04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) | [slides](slides/MDP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
+05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | -- | [slides](slides/MDP2.pdf) <br/> zoom recording to be added
 06 | Feb 04 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
 07 | Feb 09 | Online Convex Optimization | -- |
