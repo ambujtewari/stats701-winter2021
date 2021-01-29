@@ -37,33 +37,33 @@ _Caveat Lector_: The material below is provided with the hope that it might be u
 Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | ---
 01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go) | [slides](slides/Intro.pdf) <br/> [zoom recording](https://www.dropbox.com/s/s5o5up2y7a57p4n/zoom_0.mp4?dl=0)
-&nbsp;| &nbsp; | **Tabular Methods** | &nbsp;
-02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes)
-03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes)
-04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes)  
-05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | --
-06 | Feb 04 | Temporal Difference Methods | --
-&nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp;
-07 | Feb 09 | Online Convex Optimization | --
-08 | Feb 11 | Experts Problem | --
-09 | Feb 16 | Stochastic and Adversarial Multi-Armed Bandits | --
-10  | Feb 18 | Pure Exploration and Stochastic Linear Bandits | --
-&nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp;
-11 | Feb 23 | Optimism Based Algorithms | --
-12 | Feb 25 | Posterior/Thompson Sampling | --
-13 | Mar 02 | Adversarial MDPs <br/> <span style="color:red">Proposals due</span> | --
-14 | Mar 04 | -- | --
-15 | Mar 09 | -- | --
-16 | Mar 11 | -- | --
-17 | Mar 16 | -- | --
-18 | Mar 18 | -- | --
-&nbsp;| Mar 23 | Well-being break | &nbsp;
-19 | Mar 25 | -- | --
-20 | Mar 30 | -- | --
-21 | Apr 01 | -- | --
-22 | Apr 06 | -- | --
-23 | Apr 08 | -- | --
-24 | Apr 13 | -- | --
-25 | Apr 15 | -- | --
-26 | Apr 20 | -- | --
-&nbsp;| Apr 27 | <span style="color:red">Reports due</span> | &nbsp;
+&nbsp;| &nbsp; | **Tabular Methods** | &nbsp; |
+02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) |
+03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) |
+04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) |
+05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | -- |
+06 | Feb 04 | Temporal Difference Methods | -- |
+&nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
+07 | Feb 09 | Online Convex Optimization | -- |
+08 | Feb 11 | Experts Problem | -- |
+09 | Feb 16 | Stochastic and Adversarial Multi-Armed Bandits | -- |
+10  | Feb 18 | Pure Exploration and Stochastic Linear Bandits | -- |
+&nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
+11 | Feb 23 | Optimism Based Algorithms | -- |
+12 | Feb 25 | Posterior/Thompson Sampling | -- |
+13 | Mar 02 | Adversarial MDPs <br/> <span style="color:red">Proposals due</span> | -- |
+14 | Mar 04 | -- | -- |
+15 | Mar 09 | -- | -- |
+16 | Mar 11 | -- | -- |
+17 | Mar 16 | -- | -- |
+18 | Mar 18 | -- | -- |
+&nbsp;| Mar 23 | Well-being break | &nbsp; |
+19 | Mar 25 | -- | -- |
+20 | Mar 30 | -- | -- |
+21 | Apr 01 | -- | -- |
+22 | Apr 06 | -- | -- |
+23 | Apr 08 | -- | -- |
+24 | Apr 13 | -- | -- |
+25 | Apr 15 | -- | -- |
+26 | Apr 20 | -- | -- |
+&nbsp;| Apr 27 | <span style="color:red">Reports due</span> | &nbsp; |
