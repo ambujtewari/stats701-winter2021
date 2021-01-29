@@ -29,7 +29,7 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 
 ## Schedule 
 
-_Caveat Lector_: The material below is provided with the hope that it might be useful in learning the theory of RL. Please note that the content is rough and unplished in many places. It has not been subjected to the scrutiny reserved for scholarly publications. Please watch out for errors and inconsistencies!
+_Caveat Lector_: The material below is provided with the hope that it might be useful in learning the theory of RL. Please note that the content is rough and unpolished in many places. It has not been subjected to the scrutiny reserved for scholarly publications. Please watch out for errors and inconsistencies!
 
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
