@@ -35,7 +35,7 @@ _Caveat Lector_: The material below is provided with the hope that it might be u
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
 
 Lecture No. | Date | Topic | Readings | Media. 
---- | --- | --- | ---  
+--- | --- | --- | --- | ---
 01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go) | [slides](slides/Intro.pdf) <br/> [zoom recording](https://www.dropbox.com/s/s5o5up2y7a57p4n/zoom_0.mp4?dl=0)
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp; |
 02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) |
