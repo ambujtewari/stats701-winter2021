@@ -29,12 +29,14 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 
 ## Schedule 
 
+_Caveat Lector_: The material below is provided with the hope that it might be useful in learning the theory of RL. Please note that the content is rough and unplished in many places. It has not been subjected to the scrutiny reserved for scholarly publications. Please watch out for errors and inconsistencies!
+
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
 
-Lecture No. | Date | Topic | Readings
+Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | ---
-01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go)
+01 | Jan 19 | Introduction | V, Chapter 1 (Introduction) <br/> SB, Chapter 1 (Introduction) <br/> SB, Section 16.2 (Samuel's Checkers Player) <br/> SB, Section 16.6 (Mastering the Game of Go) | [slides](slides/Intro.pdf) <br/> [zoom recording](https://www.dropbox.com/s/s5o5up2y7a57p4n/zoom_0.mp4?dl=0)
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp;
 02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes)
 03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes)
