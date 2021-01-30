@@ -40,19 +40,19 @@ Lecture No. | Date | Topic | Readings | Media
 &nbsp;| &nbsp; | **Tabular Methods** | &nbsp; |
 02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) | [slides](slides/MRP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/yx123soh439120x/zoom_0.mp4?dl=0)
 03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) | [slides](slides/MRP2.pdf) <br/> [zoom recording](https://www.dropbox.com/s/scxb2behhqkrkg3/zoom_0.mp4?dl=0)
-04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) | [slides](slides/MDP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
-05 | Feb 02 | MDPs continued <br/> Monte Carlo Methods | -- | [slides](slides/MDP2.pdf) <br/> zoom recording to be added
-06 | Feb 04 | Temporal Difference Methods | -- |
+04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) <br/> SB, Chapter 3 (Finite Markov Decision Processes)| [slides](slides/MDP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
+05 | Feb 02 | MDPs continued | -- | [slides](slides/MDP2.pdf) <br/> zoom recording to be added
+06 | Feb 04 | Monte Carlo Methods | -- |
+07 | Feb 09 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
-07 | Feb 09 | Online Convex Optimization | -- |
-08 | Feb 11 | Experts Problem | -- |
-09 | Feb 16 | Stochastic and Adversarial Multi-Armed Bandits | -- |
-10  | Feb 18 | Pure Exploration and Stochastic Linear Bandits | -- |
+08 | Feb 11 | Online Convex Optimization | -- |
+09 | Feb 16 | Experts Problem | -- |
+10  | Feb 18 | Stochastic and Adversarial Multi-Armed Bandits | -- |
+11 | Feb 23 | Pure Exploration and Stochastic Linear Bandits | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
-11 | Feb 23 | Optimism Based Algorithms | -- |
-12 | Feb 25 | Posterior/Thompson Sampling | -- |
-13 | Mar 02 | Adversarial MDPs <br/> <span style="color:red">Proposals due</span> | -- |
-14 | Mar 04 | -- | -- |
+12 | Feb 25 | Optimism Based Algorithms | -- |
+13 | Mar 02 | Posterior/Thompson Sampling <br/> <span style="color:red">Proposals due</span> | -- |
+14 | Mar 04 | Adversarial MDPs | -- |
 15 | Mar 09 | -- | -- |
 16 | Mar 11 | -- | -- |
 17 | Mar 16 | -- | -- |
