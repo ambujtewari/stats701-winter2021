@@ -41,7 +41,7 @@ Lecture No. | Date | Topic | Readings | Media
 02 | Jan 21 | Markov Processes | V, Section 8.2 (Markov processes) | [slides](slides/MRP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/yx123soh439120x/zoom_0.mp4?dl=0)
 03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) | [slides](slides/MRP2.pdf) <br/> [zoom recording](https://www.dropbox.com/s/scxb2behhqkrkg3/zoom_0.mp4?dl=0)
 04 | Jan 28 | MRPs continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) <br/> SB, Chapter 3 (Finite Markov Decision Processes)| [slides](slides/MDP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
-05 | Feb 02 | MDPs continued | -- | [slides](slides/MDP2.pdf) <br/> zoom recording to be added
+05 | Feb 02 | MDPs continued | SB, Chapter 4 (Dynamic Programming) | [slides](slides/MDP2.pdf) <br/> zoom recording to be added
 06 | Feb 04 | Monte Carlo Methods | -- |
 07 | Feb 09 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
