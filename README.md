@@ -33,6 +33,7 @@ _Caveat Lector_: The material below is provided with the hope that it might be u
 
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
+- P = Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming
 
 Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | --- | ---
@@ -42,7 +43,7 @@ Lecture No. | Date | Topic | Readings | Media
 03 | Jan 26 | Markov Reward Processes | V, Section 8.3 (Contraction Mapping Theorem) <br/> V, Section 2.1 (Markov Reward Processes) | [slides](slides/MRP2.pdf) <br/> [zoom recording](https://www.dropbox.com/s/scxb2behhqkrkg3/zoom_0.mp4?dl=0)
 04 | Jan 28 | MRPs Continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) <br/> SB, Chapter 3 (Finite Markov Decision Processes)| [slides](slides/MDP.pdf) <br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
 05 | Feb 02 | MDPs Continued | SB, Chapter 4 (Dynamic Programming) | [slides](slides/MDP2.pdf) <br/> [zoom recording](https://www.dropbox.com/s/179yab2qa465y4x/zoom_0.mp4?dl=0)
-06 | Feb 04 | LP Approach to Solving MDPs <br/> MLE for Markov Processes <br/> Hoeffding's Inequality | -- | [slides](slides/MC_methods.pdf) <br/> [zoom recording](https://www.dropbox.com/s/a0ubuosk81931ct/zoom_0.mp4?dl=0)
+06 | Feb 04 | LP Approach to Solving MDPs <br/> MLE for Markov Processes <br/> Hoeffding's Inequality | P, Section 6.9 (Linear Programming) | [slides](slides/MC_methods.pdf) <br/> [zoom recording](https://www.dropbox.com/s/a0ubuosk81931ct/zoom_0.mp4?dl=0)
 07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/> zoom recording to be added
 08 | Feb 11 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
