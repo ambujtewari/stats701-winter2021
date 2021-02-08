@@ -47,8 +47,8 @@ Lecture No. | Date | Topic | Readings | Media
 07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/> zoom recording to be added
 08 | Feb 11 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
-09 | Feb 16 | Online Convex Optimization | -- |
-10  | Feb 18 | Experts Problem | -- |
+09 | Feb 16 | Online Convex Optimization <br/> Experts Problem | -- |
+10  | Feb 18 | Follow the Regularized Leader <br/> Mirror Descent  | -- |
 11 | Feb 23 | Stochastic and Adversarial Multi-Armed Bandits | -- |
 12 | Feb 25 | Pure Exploration and Stochastic Linear Bandits | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
