@@ -44,7 +44,7 @@ Lecture No. | Date | Topic | Readings | Media
 04 | Jan 28 | MRPs Continued <br/> Markov Decision Processes | V, Section 2.2 (Markov Decision Processes) <br/> SB, Chapter 3 (Finite Markov Decision Processes)| [slides](slides/MDP.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/nn0cqpclsr09nz1/zoom_0.mp4?dl=0)
 05 | Feb 02 | MDPs Continued | SB, Chapter 4 (Dynamic Programming) | [slides](slides/MDP2.pdf)<br/><br/> [zoom recording](https://www.dropbox.com/s/179yab2qa465y4x/zoom_0.mp4?dl=0)
 06 | Feb 04 | LP Approach to Solving MDPs <br/> MLE of Markov Processes <br/> Hoeffding's Inequality | P, Section 6.9 (Linear Programming) <br/> V, Section 8.3 (MLE of Markov Processes) | [slides](slides/MC_methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/a0ubuosk81931ct/zoom_0.mp4?dl=0)
-07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/><br/> zoom recording to be added
+07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/tg84g76ti7jfm6y/zoom_0.mp4?dl=0)
 08 | Feb 11 | Temporal Difference Methods | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
 09 | Feb 16 | Online Convex Optimization <br/> Experts Problem | -- |
