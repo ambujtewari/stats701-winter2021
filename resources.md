@@ -23,6 +23,7 @@
 - [Peter Stone @ UT Austin](https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/)
 - [Richard Weber @ Cambridge](http://www.statslab.cam.ac.uk/~rrw1/oc/index.html): not exactly an RL course but has useful material on optimization and control
 - [Susan Murphy @ Harvard](http://people.seas.harvard.edu/~samurphy/teaching/stat234spring2019/outline.htm)
+- [Wen Sun/Sham Kakade @ Cornell/UW](https://wensun.github.io/CS6789.html)
 - [Warren Powell @ Princeton](https://castlelab.princeton.edu/html/ORF544.htm)
 - [Yishay Mansour @ Tel-Aviv](http://rl-tau-2019.wikidot.com/)
 
