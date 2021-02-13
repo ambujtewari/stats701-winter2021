@@ -10,7 +10,7 @@
 - [Berkeley Deep RL Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Byron Boots @ UW](https://homes.cs.washington.edu/~bboots/RL-Spring2020/)
 - [Chi Jin @ Princeton](https://sites.google.com/view/cjin/ele524)
-- [CMU Deep RL Course](https://cmudeeprl.github.io/703website/)
+- [CMU Deep RL Course](https://cmudeeprl.github.io/403_website/)
 - [Csaba Szepesvari @ U of Alberta](https://rltheory.github.io/)
 - [David Silver @ UCL](https://www.davidsilver.uk/teaching/)
 - [Dimitrios Katselis @ UIUC](http://katselis.web.engr.illinois.edu/ReinforcementLearning.html)
