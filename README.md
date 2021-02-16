@@ -46,7 +46,7 @@ Lecture No. | Date | Topic | Readings | Media
 06 | Feb 04 | LP Approach to Solving MDPs <br/> MLE of Markov Processes <br/> Hoeffding's Inequality | P, Section 6.9 (Linear Programming) <br/> V, Section 8.3 (MLE of Markov Processes) | [slides](slides/MC_methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/a0ubuosk81931ct/zoom_0.mp4?dl=0)
 07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/tg84g76ti7jfm6y/zoom_0.mp4?dl=0)
 08 | Feb 11 | Temporal Difference Methods | V, Section 4.2 (Temporal Difference Methods) <br/> SB, Chapter 6 (Temporal-Difference Learning) | [slides](slides/TD-methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/6idxa97b3eevf92/zoom_0.mp4?dl=0)
-09 | Feb 16 | Project Discusion | -- |
+09 | Feb 16 | Project Discusion | &nbsp; |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
 10  | Feb 18 | Online Convex Optimization <br/> Experts Problem  | -- |
 11 | Feb 23 | Follow the Regularized Leader <br/> Mirror Descent | -- |
