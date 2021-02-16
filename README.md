@@ -46,16 +46,16 @@ Lecture No. | Date | Topic | Readings | Media
 06 | Feb 04 | LP Approach to Solving MDPs <br/> MLE of Markov Processes <br/> Hoeffding's Inequality | P, Section 6.9 (Linear Programming) <br/> V, Section 8.3 (MLE of Markov Processes) | [slides](slides/MC_methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/a0ubuosk81931ct/zoom_0.mp4?dl=0)
 07 | Feb 09 | Monte Carlo Methods | V, Section 4.1 (Monte-Carlo Methods) <br/> SB, Chapter 5 (Monte Carlo Methods) | [slides](slides/MC_methods2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/tg84g76ti7jfm6y/zoom_0.mp4?dl=0)
 08 | Feb 11 | Temporal Difference Methods | V, Section 4.2 (Temporal Difference Methods) <br/> SB, Chapter 6 (Temporal-Difference Learning) | [slides](slides/TD-methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/6idxa97b3eevf92/zoom_0.mp4?dl=0)
+09 | Feb 16 | Project Discusion | -- |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
-09 | Feb 16 | Online Convex Optimization <br/> Experts Problem | -- |
-10  | Feb 18 | Follow the Regularized Leader <br/> Mirror Descent  | -- |
-11 | Feb 23 | Stochastic and Adversarial Multi-Armed Bandits | -- |
-12 | Feb 25 | Pure Exploration and Stochastic Linear Bandits | -- |
+10  | Feb 18 | Online Convex Optimization <br/> Experts Problem  | -- |
+11 | Feb 23 | Follow the Regularized Leader <br/> Mirror Descent | -- |
+12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | -- |
+13 | Mar 02 | Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
-13 | Mar 02 | Optimism Based Algorithms <br/> <span style="color:red">Proposals due</span> | -- |
-14 | Mar 04 | Posterior/Thompson Sampling | -- |
-15 | Mar 09 | Adversarial MDPs | -- |
-16 | Mar 11 | -- | -- |
+14 | Mar 04 | Optimism Based Algorithms  | -- |
+15 | Mar 09 | Posterior/Thompson Sampling | -- |
+16 | Mar 11 | Adversarial MDPs | -- |
 17 | Mar 16 | -- | -- |
 18 | Mar 18 | -- | -- |
 &nbsp;| Mar 23 | Well-being break | &nbsp; |
