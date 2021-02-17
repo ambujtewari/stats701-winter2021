@@ -32,8 +32,9 @@ There will be no graded homeworks or exams. Grades will be determined on the bas
 _Caveat Lector_: The material below is provided with the hope that it might be useful in learning the theory of RL. Please note that the content is rough and unpolished in many places. It has not been subjected to the scrutiny reserved for scholarly publications. Please watch out for errors and inconsistencies!
 
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
-- SB = Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd edition)
+- SB = Richard Sutton and Andrew Barto, [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) (2nd edition)
 - P = Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming
+- EH = Elad Hazan, [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)
 
 Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | --- | ---
@@ -48,8 +49,8 @@ Lecture No. | Date | Topic | Readings | Media
 08 | Feb 11 | Temporal Difference Methods | V, Section 4.2 (Temporal Difference Methods) <br/> SB, Chapter 6 (Temporal-Difference Learning) | [slides](slides/TD-methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/6idxa97b3eevf92/zoom_0.mp4?dl=0)
 09 | Feb 16 | Project Discussion | &nbsp; |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
-10  | Feb 18 | Online Convex Optimization <br/> Experts Problem  | -- | [slides](slides/full-info_slides.pdf) <br/><br/> zoom recording to be added
-11 | Feb 23 | Follow the Regularized Leader <br/> Mirror Descent | -- |
+10  | Feb 18 | Online Convex Optimization (OCO) <br/> Experts Problem  | EH, Chapter 1 (Introduction) <br/> EH, Chapter 2 (First order algorithms for OCO) | [slides](slides/full-info_slides.pdf) <br/><br/> zoom recording to be added
+11 | Feb 23 | Follow the Regularized Leader <br/> Mirror Descent | EH, Chapter 5 (Regularization) |
 12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | -- |
 13 | Mar 02 | Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
