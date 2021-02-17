@@ -21,7 +21,7 @@
 - [Nan Jiang @ UIUC](https://nanjiang.cs.illinois.edu/cs498/), [more theoretical version](https://nanjiang.cs.illinois.edu/cs598/)
 - [Peter Bartlett @ Berkeley](https://www.stat.berkeley.edu/~bartlett/courses/2014fall-cs294stat260/)
 - [Peter Stone @ UT Austin](https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/)
-- [Philip Thomas @ UMass](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2020.html_
+- [Philip Thomas @ UMass](https://people.cs.umass.edu/~pthomas/courses/CMPSCI_687_Fall2020.html)
 - [Richard Weber @ Cambridge](http://www.statslab.cam.ac.uk/~rrw1/oc/index.html): not exactly an RL course but has useful material on optimization and control
 - [Susan Murphy @ Harvard](http://people.seas.harvard.edu/~samurphy/teaching/stat234spring2019/outline.htm)
 - [Wen Sun/Sham Kakade @ Cornell/UW](https://wensun.github.io/CS6789.html)
