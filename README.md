@@ -50,7 +50,7 @@ Lecture No. | Date | Topic | Readings | Media
 09 | Feb 16 | Project Discussion | &nbsp; |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
 10  | Feb 18 | Online Convex Optimization (OCO)  | EH, Chapter 1 (Introduction) <br/> EH, Chapter 2 (First order algorithms for OCO) | [slides](slides/full-info_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/cdu0dfum6xejott/zoom_0.mp4?dl=0)
-11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | EH, Chapter 5 (Regularization) |
+11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | EH, Chapter 5 (Regularization) | [slides](slides/full-info_slides2.pdf) <br/><br/> zoom recording to be added
 12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | -- |
 13 | Mar 02 | Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
