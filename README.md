@@ -34,7 +34,8 @@ _Caveat Lector_: The material below is provided with the hope that it might be u
 - V = Prof. Vidyasagar's course notes (available to UM students via the Canvas website for this course)
 - SB = Richard Sutton and Andrew Barto, [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) (2nd edition)
 - P = Martin L. Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming
-- EH = Elad Hazan, [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)
+- H = Elad Hazan, [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf)
+- LS = Tor Lattimore and Csaba Szepesvari, [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
 
 Lecture No. | Date | Topic | Readings | Media
 --- | --- | --- | --- | ---
@@ -49,9 +50,9 @@ Lecture No. | Date | Topic | Readings | Media
 08 | Feb 11 | Temporal Difference Methods | V, Section 4.2 (Temporal Difference Methods) <br/> SB, Chapter 6 (Temporal-Difference Learning) | [slides](slides/TD-methods.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/6idxa97b3eevf92/zoom_0.mp4?dl=0)
 09 | Feb 16 | Project Discussion | &nbsp; |
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
-10  | Feb 18 | Online Convex Optimization (OCO)  | EH, Chapter 1 (Introduction) <br/> EH, Chapter 2 (First order algorithms for OCO) | [slides](slides/full-info_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/cdu0dfum6xejott/zoom_0.mp4?dl=0)
-11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | EH, Chapter 5 (Regularization) | [slides](slides/full-info_slides2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/5esvjth771xt6dc/zoom_0.mp4?dl=0)
-12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | -- | [slides](slides/bandits_slides.pdf) <br/><br/> zoom recording to be added
+10  | Feb 18 | Online Convex Optimization (OCO)  | H, Chapter 1 (Introduction) <br/> H, Chapter 2 (First order algorithms for OCO) | [slides](slides/full-info_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/cdu0dfum6xejott/zoom_0.mp4?dl=0)
+11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | H, Chapter 5 (Regularization) | [slides](slides/full-info_slides2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/5esvjth771xt6dc/zoom_0.mp4?dl=0)
+12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | LS, Chapter 4 (Stochastic Bandits) <br/> LS, Chapter 6 (The Explore-Then-Commit Algorithm) <br/> LS,  Chapter 7 (The Upper Confidence Bound Algorithm) <br/> Chapter 11 (The Exp3 Algorithm) | [slides](slides/bandits_slides.pdf) <br/><br/> zoom recording to be added
 13 | Mar 02 | Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | -- |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
 14 | Mar 04 | Optimism Based Algorithms  | -- |
