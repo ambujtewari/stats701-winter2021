@@ -52,8 +52,8 @@ Lecture No. | Date | Topic | Readings | Media
 &nbsp;| &nbsp; | **Online Learning and Bandits** | &nbsp; |
 10  | Feb 18 | Online Convex Optimization (OCO)  | H, Chapter 1 (Introduction) <br/> H, Chapter 2 (First order algorithms for OCO) | [slides](slides/full-info_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/cdu0dfum6xejott/zoom_0.mp4?dl=0)
 11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | H, Chapter 5 (Regularization) | [slides](slides/full-info_slides2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/5esvjth771xt6dc/zoom_0.mp4?dl=0)
-12 | Feb 25 | Stochastic and Adversarial Multi-Armed Bandits | LS, Chapter 4 (Stochastic Bandits) <br/> LS, Chapter 6 (The Explore-Then-Commit Algorithm) <br/> LS,  Chapter 7 (The Upper Confidence Bound Algorithm) <br/> LS, Chapter 11 (The Exp3 Algorithm) | [slides](slides/bandits_slides.pdf) <br/><br/> zoom recording to be added
-13 | Mar 02 | Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | -- |
+12 | Feb 25 | Adversarial Multi-Armed Bandits | LS, Chapter 11 (The Exp3 Algorithm) | [slides](slides/bandits_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/azu5pluwg54sh56/zoom_0.mp4?dl=0)
+13 | Mar 02 | Stochastic Multi-Armed Bandits <br/> Pure Exploration and Stochastic Linear Bandits <br/> <span style="color:red">Proposals due</span> | LS, Chapter 4 (Stochastic Bandits) <br/> LS, Chapter 6 (The Explore-Then-Commit Algorithm) <br/> LS,  Chapter 7 (The Upper Confidence Bound Algorithm) |
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
 14 | Mar 04 | Optimism Based Algorithms  | -- |
 15 | Mar 09 | Posterior/Thompson Sampling | -- |
