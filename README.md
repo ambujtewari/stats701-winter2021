@@ -54,7 +54,7 @@ Lecture No. | Date | Topic | Readings | Media
 11 | Feb 23 | Experts Problem <br/> Follow the Regularized Leader <br/> Mirror Descent | H, Chapter 5 (Regularization) | [slides](slides/full-info_slides2.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/5esvjth771xt6dc/zoom_0.mp4?dl=0)
 12 | Feb 25 | Adversarial Multi-Armed Bandits | LS, Chapter 11 (The Exp3 Algorithm) | [slides](slides/bandits_slides.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/azu5pluwg54sh56/zoom_0.mp4?dl=0)
 -- | Mar 05 | <span style="color:red">Proposals due</span> | Note: Mar 2nd, Mar 4th lectures were cancelled |
-13 | Mar 09 | Stochastic Multi-Armed Bandits | LS, Chapter 4 (Stochastic Bandits) <br/> LS, Chapter 6 (The Explore-Then-Commit Algorithm) <br/> LS,  Chapter 7 (The Upper Confidence Bound Algorithm) <br/> LS, Chapter 36 (Thompson Sampling) <br/> LS, Chapter 22 (Pure Exploration) | [slides](slides/bandit_slides2.pdf) <br/><br/> zoom recording to be added
+13 | Mar 09 | Stochastic Multi-Armed Bandits | LS, Chapter 4 (Stochastic Bandits) <br/> LS, Chapter 6 (The Explore-Then-Commit Algorithm) <br/> LS,  Chapter 7 (The Upper Confidence Bound Algorithm) <br/> LS, Chapter 36 (Thompson Sampling) <br/> LS, Chapter 22 (Pure Exploration) | [slides](slides/bandits_slides2.pdf) <br/><br/> zoom recording to be added
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
 14 | Mar 11 | Optimism Based Algorithms | [UCRL2 paper](https://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf) | [slides](slides/UCRL.pdf) <br/><br/> zoom recording to be added
 15 | Mar 16 | Posterior/Thompson Sampling | -- |
