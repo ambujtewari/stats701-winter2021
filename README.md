@@ -58,7 +58,7 @@ Lecture No. | Date | Topic | Readings | Media
 &nbsp;| &nbsp; | **Online Learning in MDPs** | &nbsp; |
 14 | Mar 11 | Optimism Based Algorithms | [UCRL2 paper](https://www.jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf) | [slides](slides/UCRL.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/btqs0xl1w7tq0aa/zoom_0.mp4?dl=0)
 15 | Mar 16 | Posterior/Thompson Sampling | [PSRL paper](https://arxiv.org/pdf/1306.0940.pdf) | [slides](slides/TS.pdf) <br/><br/> zoom recording to be added
-16 | Mar 18 | Adversarial MDPs | -- |
+16 | Mar 18 | Adversarial MDPs | -- | [slides](slides/advMDPs.pdf) <br/><br/> zoom recording to be added
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
 17 | Mar 25 | -- | -- |
 &nbsp;| &nbsp; | **Student Presentations** | &nbsp; |
