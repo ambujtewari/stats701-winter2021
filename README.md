@@ -61,6 +61,7 @@ Lecture No. | Date | Topic | Readings | Media
 16 | Mar 18 | Adversarial MDPs | -- |
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
 17 | Mar 25 | -- | -- |
+&nbsp;| &nbsp; | **Student Presentations** | &nbsp; |
 18 | Mar 30 | -- | -- |
 19 | Apr 01 | -- | -- |
 20 | Apr 06 | -- | -- |
