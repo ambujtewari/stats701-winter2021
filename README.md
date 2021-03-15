@@ -63,7 +63,7 @@ Lecture No. | Date | Topic | Readings | Media
 17 | Mar 25 | -- | -- |
 
 ### Student Presentations
-Date | Group | Readings | Media
+Date | Group | Topic | Media
 --- | --- | --- | ---
 Mar 30 | Dhar-Weitze | -- |
 Mar 30 | Li-Li-Gupta | -- |
