@@ -61,6 +61,9 @@ Lecture No. | Date | Topic | Readings | Media
 16 | Mar 18 | Adversarial MDPs | [MDP Experts paper](https://papers.nips.cc/paper/2004/file/421b3ac5c24ee992edd6087611c60dbb-Paper.pdf) ([Journal version](https://www.jstor.org/stable/40538442)) | [slides](slides/advMDPs.pdf) <br/><br/> zoom recording to be added
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
 17 | Mar 25 | -- | -- |
+
+Lecture No. | Date | Topic | Readings | Media
+--- | --- | --- | --- | ---
 &nbsp;| &nbsp; | **Student Presentations** | &nbsp; |
 18 | Mar 30 | -- | -- |
 19 | Apr 01 | -- | -- |
