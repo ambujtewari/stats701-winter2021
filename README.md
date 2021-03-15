@@ -65,18 +65,18 @@ Lecture No. | Date | Topic | Readings | Media
 ### Student Presentations
 Date | Group | Readings | Media
 --- | --- | --- | ---
-Mar 30 | -- | -- |
-Mar 30 | -- | -- |
-Apr 01 | -- | -- |
-Apr 01 | -- | -- |
-Apr 06 | -- | -- |
-Apr 06 | -- | -- |
-Apr 08 | -- | -- |
-Apr 08 | -- | -- |
-Apr 13 | -- | -- |
-Apr 13 | -- | -- |
-Apr 15 | -- | -- |
-Apr 15 | -- | -- |
-Apr 20 | -- | -- |
-Apr 20 | -- | -- |
+Mar 30 | Dhar-Weitze | -- |
+Mar 30 | Li-Li-Gupta | -- |
+Apr 01 | Liu-Qiao-Sun | -- |
+Apr 01 | DiGiovanni-Zell | -- |
+Apr 06 | Li-Xu | -- |
+Apr 06 | Jang-Moug | -- |
+Apr 08 | Park-Yu | -- |
+Apr 08 | Otero-Leon | -- |
+Apr 13 | Wang-Zhong | -- |
+Apr 13 | Chandrasekaran-De | -- |
+Apr 15 | Zhalechian | -- |
+Apr 15 | Bull-Li | -- |
+Apr 20 | Chakraborty-Roy | -- |
+Apr 20 | Li-Shang | -- |
 Apr 27 | <span style="color:red">Reports due</span> | &nbsp; |
