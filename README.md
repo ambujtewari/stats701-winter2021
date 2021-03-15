@@ -62,14 +62,21 @@ Lecture No. | Date | Topic | Readings | Media
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
 17 | Mar 25 | -- | -- |
 
-Lecture No. | Date | Topic | Readings | Media
---- | --- | --- | --- | ---
-&nbsp;| &nbsp; | **Student Presentations** | &nbsp; |
-18 | Mar 30 | -- | -- |
-19 | Apr 01 | -- | -- |
-20 | Apr 06 | -- | -- |
-21 | Apr 08 | -- | -- |
-22 | Apr 13 | -- | -- |
-23 | Apr 15 | -- | -- |
-24 | Apr 20 | -- | -- |
-&nbsp;| Apr 27 | <span style="color:red">Reports due</span> | &nbsp; |
+### Student Presentations
+Date | Group | Readings | Media
+--- | --- | --- | ---
+Mar 30 | -- | -- |
+Mar 30 | -- | -- |
+Apr 01 | -- | -- |
+Apr 01 | -- | -- |
+Apr 06 | -- | -- |
+Apr 06 | -- | -- |
+Apr 08 | -- | -- |
+Apr 08 | -- | -- |
+Apr 13 | -- | -- |
+Apr 13 | -- | -- |
+Apr 15 | -- | -- |
+Apr 15 | -- | -- |
+Apr 20 | -- | -- |
+Apr 20 | -- | -- |
+Apr 27 | <span style="color:red">Reports due</span> | &nbsp; |
