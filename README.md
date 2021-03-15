@@ -62,7 +62,8 @@ Lecture No. | Date | Topic | Readings | Media
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
 17 | Mar 25 | -- | -- |
 
-### Student Presentations
+### Student Presentations 
+
 Date | Group | Topic | Media
 --- | --- | --- | ---
 Mar 30 | Dhar-Weitze | -- |
