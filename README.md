@@ -60,7 +60,7 @@ Lecture No. | Date | Topic | Readings | Media
 15 | Mar 16 | Posterior/Thompson Sampling | [PSRL paper](https://arxiv.org/pdf/1306.0940.pdf) | [slides](slides/TS.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/7ge5nuaovdlk07q/zoom_0.mp4?dl=0)
 16 | Mar 18 | Adversarial MDPs | [MDP Experts paper](https://papers.nips.cc/paper/2004/file/421b3ac5c24ee992edd6087611c60dbb-Paper.pdf) ([Journal version](https://www.jstor.org/stable/40538442)) | [slides](slides/advMDPs.pdf) <br/><br/> zoom recording to be added
 &nbsp;| Mar 23 | <span style="color:red">Well-being break</span> | &nbsp; |
-17 | Mar 25 | -- | -- |
+&nbsp;| Mar 25 | <span style="color:red">Well-being break</span> | &nbsp; |
 
 ### Student Presentations
 
