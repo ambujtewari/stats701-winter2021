@@ -66,8 +66,8 @@ Lecture No. | Date | Topic | Readings | Media
 
 Date | Group | Topic | Media
 --- | --- | --- | ---
-Mar 30 | Dhar-Weitze | -- |
-Mar 30 | Li-Li-Gupta | -- |
+Mar 30 | Dhar-Weitze | Reinforcement Learning in Enormous Action Spaces | [slides](student%20presentation%20slides/Dhar-Weitze.pdf) <br/><br/> zoom recording to be added
+Mar 30 | Li-Li-Gupta | Game Theoretical Foundations for Multi-agent Reinforcement Learning | [slides](student%20presentation%20slides/Li-Li-Gupta.pdf) <br/><br/> zoom recording to be added
 Apr 01 | Liu-Qiao-Sun | -- |
 Apr 01 | DiGiovanni-Zell | -- |
 Apr 06 | Li-Xu | -- |
