@@ -68,8 +68,8 @@ Date | Group | Topic | Media
 --- | --- | --- | ---
 Mar 30 | Dhar-Weitze | Reinforcement Learning in Enormous Action Spaces | [slides](student%20presentation%20slides/Dhar-Weitze.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/hru07l0hwxw0lhl/zoom_0.mp4?dl=0)
 Mar 30 | Li-Li-Gupta | Game Theoretical Foundations for Multi-agent Reinforcement Learning | [slides](student%20presentation%20slides/Li-Li-Gupta.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/smnydmbc5t1lqk9/zoom_1.mp4?dl=0)
-Apr 01 | Liu-Qiao-Sun | -- |
-Apr 01 | DiGiovanni-Zell | -- |
+Apr 01 | Liu-Qiao-Sun |  A deep reinforcement learning based long-term recommender system | [slides](student%20presentation%20slides/Liu-Qiao-Sun.pdf) <br/><br/> zoom recording to be added
+Apr 01 | DiGiovanni-Zell | Self-Play Compatibility in Multi-Agent Learning | [slides](student%20presentation%20slides/Zell-DiGiovanni.pdf) <br/><br/> zoom recording to be added
 Apr 06 | Li-Xu | -- |
 Apr 06 | Jang-Moug | -- |
 Apr 08 | Park-Yu | -- |
