@@ -70,7 +70,7 @@ Mar 30 | Dhar-Weitze | Reinforcement Learning in Enormous Action Spaces | [slide
 Mar 30 | Gupta-Li-Li | Game Theoretical Foundations for Multi-agent Reinforcement Learning | [slides](student%20presentation%20slides/Gupta-Li-Li.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/smnydmbc5t1lqk9/zoom_1.mp4?dl=0)
 Apr 01 | Liu-Qiao-Sun |  A deep reinforcement learning based long-term recommender system | [slides](student%20presentation%20slides/Liu-Qiao-Sun.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/f5qcmph3txys9ok/zoom_0.mp4?dl=0)
 Apr 01 | DiGiovanni-Zell | Self-Play Compatibility in Multi-Agent Learning | [slides](student%20presentation%20slides/Zell-DiGiovanni.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/hc3t2euluujqg5c/zoom_1.mp4?dl=0)
-Apr 06 | Li-Xu | -- |
+Apr 06 | Li-Xu | Overview of Thompson sampling in RL and BCI applications | [slides](student%20presentation%20slides/Li-Xu.pdf)
 Apr 06 | Jang-Moug | -- |
 Apr 08 | Park-Yu | -- |
 Apr 08 | Otero-Leon | -- |
