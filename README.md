@@ -75,7 +75,7 @@ Apr 06 | Jang-Moug | Comparison of Safe Reinforcement Learning Algorithms in Saf
 Apr 08 | Park-Yu | Real-time Update in Robot Imitation Learning | [slides](student%20presentation%20slides/Park-Yu.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/gqyw70cx31khlwn/zoom_0.mp4?dl=0)
 Apr 08 | Otero-Leon | Patient panel prioritization with finite resources | [slides](student%20presentation%20slides/Otero-Leon.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/8x44hicy8zjzpk2/zoom_1.mp4?dl=0)
 Apr 13 | Wang-Zhong | Inverse Reinforcement Learning and its application on calibration of human driver models | [slides](student%20presentation%20slides/Wang-Zhong.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/dtnz7xmevdn958q/zoom_0.mp4?dl=0)
-Apr 13 | Chandrasekaran-De | Statistical Properties of Monte Carlo Estimates in Reinforcment Learning | [slides](student%20presentation%20slides/Chandrasekaran-De.pdf) <br/><br/> zoom recording coming soon
+Apr 13 | Chandrasekaran-De | Statistical Properties of Monte Carlo Estimates in Reinforcment Learning | [slides](student%20presentation%20slides/Chandrasekaran-De.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/fyidzdvsnhaadzz/zoom_1.mp4?dl=0)
 Apr 15 | Zhalechian | -- |
 Apr 15 | Bull-Li | -- |
 Apr 20 | Chakraborty-Roy | -- |
