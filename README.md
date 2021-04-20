@@ -78,6 +78,6 @@ Apr 13 | Wang-Zhong | Inverse Reinforcement Learning and its application on cali
 Apr 13 | Chandrasekaran-De | Statistical Properties of Monte Carlo Estimates in Reinforcment Learning | [slides](student%20presentation%20slides/Chandrasekaran-De.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/fyidzdvsnhaadzz/zoom_1.mp4?dl=0)
 Apr 15 | Zhalechian | Reinforcement Learning for Parameterized Markov Decision Processes using Posterior Sampling | [slides](student%20presentation%20slides/Zhalechian.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/a6g8t9f275nshfp/zoom_0.mp4?dl=0)
 Apr 15 | Bull-Li | Reinforcement Learning of Optimal Delivery Destination Estimation | [slides](student%20presentation%20slides/Bull-Li.pdf) <br/><br/> [zoom recording](https://www.dropbox.com/s/jewajc2ddyu3o5e/zoom_1.mp4?dl=0)
-Apr 20 | Chakraborty-Roy | -- |
+Apr 20 | Chakraborty-Roy | High Dimensional Linear Contextual Bandit and Thompson Sampling using Langevin dynamics | [slides](student%20presentation%20slides/Chakraborty-Roy.pdf)
 Apr 20 | Li-Shang | -- |
 Apr 27 | <span style="color:red">Reports due</span> | &nbsp; |
